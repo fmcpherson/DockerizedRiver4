@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>ReadingList</title>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<dateModified>Fri, 31 Jul 2015 19:43:02 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>6</lastCursor>
+		<ownerProfile>http://frank.frankmcpherson.net</ownerProfile>
+		</head>
+	<body>
+		<outline text="Hacker News Firehose" description="Hacker News Firehose" htmlUrl="https://news.ycombinator.com/newest" language="en-US" title="Hacker News Firehose" type="rss" version="RSS2" xmlUrl="http://hn.geekity.com/newstories.xml"/>
+		<outline text="NewYorker Humor" description="NewYorker Humor" htmlUrl="http://www.newyorker.com/" language="en-US" title="NewYorker Humor" type="rss" version="RSS2" xmlUrl="http://www.newyorker.com/feed/humor"/>
+		<outline text="Scripting News" description="" htmlUrl="" language="en" title="Scripting News" type="rss" version="RSS2" xmlUrl="http://scripting.com/rss.xml"/>
+		<outline text="BBC News - Technology" description="The latest stories from the Technology section of the BBC News web site." htmlUrl="http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" language="en-gb" title="BBC News - Technology" type="rss" version="RSS2" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml"/>
+		<outline text="BGR" description="Mobile and tech news, reviews, opinions and insights" htmlUrl="http://bgr.com" language="en" title="BGR" type="rss" version="RSS2" xmlUrl="http://feeds.feedburner.com/TheBoyGeniusReport"/>
+		<outline text="TechBlog" description="Upgrade your geek with Dwight Silverman" htmlUrl="http://blog.chron.com/techblog" language="en-US" title="TechBlog" type="rss" version="RSS2" xmlUrl="http://feeds.chron.com/houstonchronicle/techblogfulltext"/>
+		<outline text="Doc Searls WeblogDoc Searls Weblog »" description="Holding forth on stuff since 1998" htmlUrl="http://blogs.law.harvard.edu/doc" language="en-US" title="Doc Searls WeblogDoc Searls Weblog »" type="rss" version="RSS2" xmlUrl="http://blogs.law.harvard.edu/docsearls/feed/atom/"/>
+		</body>
+	</opml>
