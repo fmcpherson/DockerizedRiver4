@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>All My Feeds</title>
+		<ownerProfile>http://frank.frankmcpherson.net</ownerProfile>
+		<ownerName>Frank McPherson</ownerName>
+		<ownerEmail>frank.mcpherson@gmail.com</ownerEmail>
+		<dateModified>Fri, 19 Sep 2014 13:47:32 GMT</dateModified>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		</head>
+	<body>
+		<outline text="My Feeds" type="include" url="https://dl.dropbox.com/s/9jl2j1sl585z7gr/mysubs.opml?dl=0"/>
+		</body>
+	</opml>
